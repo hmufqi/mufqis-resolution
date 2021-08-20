@@ -2,3 +2,5 @@ Mufqi Resolusi
 - Konsisten membuat halaman web dari html/css dll 2 hari sekali
 - membuat video dari pembuatan halaman web
 - upload video ke facebook
+- membuat akun twitter
+- membuat akun ig
